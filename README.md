@@ -1,4 +1,4 @@
-# Retail CRM / ERP Web Application
+# app.diyara.ir — CEM/ERP
 
 **Built by Hamidreza Lotfi — 2026**
 
