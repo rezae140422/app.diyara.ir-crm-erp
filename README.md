@@ -13,7 +13,7 @@ A web-based CRM/ERP application for a retail business, intended to help organise
 - Role-based access for staff and an overview of business activity
 - A responsive internal web interface for desktop and mobile use
 
-This page is a general, anonymous summary only. It deliberately contains no client name, domain, business data, process detail, or other confidential information.
+This page is a general, anonymous summary only. Client data, business details, and confidential information are not included on this page.
 
 ## Why the code is not published
 
